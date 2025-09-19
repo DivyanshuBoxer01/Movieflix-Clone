@@ -21,7 +21,7 @@
 .primary-button
 {
     text-decoration: none;
-    background-color: rgb(229,9,20);
+    background-color: rgb(196, 7, 16);
     color: white;
     cursor: pointer;
 
@@ -60,7 +60,7 @@ h4
 }
 p
 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 300;
     color: lightgray;
 }
@@ -96,13 +96,13 @@ nav
     align-content: center;
     text-align: center;
     text-decoration: none;
-    font-size: 15px;
-    font-weight: 100;
+    font-size: 18px;
+    font-weight: 300;
     transition: 0.2s ease-in-out;
 }
 .nav-butt:hover
 {
-    background-color: rgb(178, 12, 21);
+    background-color: rgb(135, 15, 21);
 }
 #special-case
 { 
@@ -351,6 +351,7 @@ footer
     gap:25px;
     padding-top: 30px;
     margin-right: 15%;
+    margin-left: 10%;
 }
 .footer-5
 {
@@ -358,6 +359,8 @@ footer
     gap:25px;
     padding-top: 30px;
     margin-right: 15%;
+    margin-left: 10%;
+
 }
 .footer-6
 {
