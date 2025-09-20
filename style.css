@@ -21,7 +21,7 @@
 .primary-button
 {
     text-decoration: none;
-    background-color: rgb(196, 7, 16);
+    background-color: rgb(229,9,20);
     color: white;
     cursor: pointer;
 
@@ -56,13 +56,13 @@ h4
     padding-left: 15px;
     font-family: "Roboto", sans-serif;
     font-size: 1.3rem;
-    color: lightgray;
+    color:#ffffff;
 }
 p
 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 300;
-    color: lightgray;
+    color: #ffffff;
 }
 nav
 {
@@ -233,7 +233,7 @@ main hr
 .box-section
 {
    padding-top: 15px;
-   height: 280px;
+   height: 230px;
    width:23%; 
    background-color:rgb(34, 34, 63);
    border-radius: 10px;
@@ -312,7 +312,6 @@ footer
 
     flex-direction: column;
     justify-content: space-evenly;
-    flex-wrap: wrap;
 }
 .footer-1
 {
@@ -321,7 +320,7 @@ footer
 }
 .tel
 {
-  color: lightgray;  
+  color: #ffffff;  
 }
 .footer-2
 {
@@ -332,34 +331,35 @@ footer
 }
 .qus
 {
-    color: lightgray;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
 }
 .footer-3
 {
     flex-direction: column;
     padding-top: 30px;
     gap: 25px;
-    margin-right: 15%;
+    margin-right: 10%;
 }
 .qus-2
 {
-    color: lightgray;
+    color: #ffffff;
 }
 .footer-4
 {
     flex-direction: column;
     gap:25px;
     padding-top: 30px;
-    margin-right: 15%;
-    margin-left: 10%;
+    margin-right: 8%;
+    margin-left: 5%;
 }
 .footer-5
 {
     flex-direction: column;
     gap:25px;
     padding-top: 30px;
-    margin-right: 15%;
-    margin-left: 10%;
+    margin-left: 5%;
 
 }
 .footer-6
