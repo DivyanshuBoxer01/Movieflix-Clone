@@ -21,7 +21,7 @@
 .primary-button
 {
     text-decoration: none;
-    background-color: rgb(229,9,20);
+    background-color: rgb(130, 171, 48);
     color: white;
     cursor: pointer;
 
@@ -83,6 +83,10 @@ nav
     width:150px;
     
 }
+.logo h1
+{
+    color: yellow;
+}
 .butt
 {
     gap:20px;
@@ -102,7 +106,7 @@ nav
 }
 .nav-butt:hover
 {
-    background-color: rgb(135, 15, 21);
+    background-color:darkgreen;
 }
 #special-case
 { 
@@ -184,7 +188,7 @@ header
 }
 .main-hover:hover
 {
-    background-color: rgb(178, 12, 21);
+    background-color: darkgreen;
 }
 main hr
 {
@@ -195,7 +199,7 @@ main hr
 .main-one
 {
     padding-top: 20px;
-    background-color: rgb(1, 1, 28);
+    background-color:darkslategrey;
 }
 .watch-section
 {
@@ -217,8 +221,8 @@ main hr
     font-weight: 400;
     font-style: normal;
     font-size: 65px;
-    color: black;
-    -webkit-text-stroke: 0.5px #ffffff;
+    color: rgb(162, 91, 229);
+    -webkit-text-stroke: 1.5px white;
 }
 .watch-section-2
 {
@@ -235,8 +239,9 @@ main hr
    padding-top: 15px;
    height: 230px;
    width:23%; 
-   background-color:rgb(34, 34, 63);
+   background-color: darkgreen;
    border-radius: 10px;
+   border: 3px solid white;
 }
 .icon-img
 {
@@ -244,8 +249,8 @@ main hr
     left: 75%;
     top:5%;
     font-size: 2.5rem;
-    color: rgb(224, 114, 164);
-    -webkit-text-stroke: 1.5px black;
+    color: lightskyblue;
+    -webkit-text-stroke: 1px black;
 }
 .watch-section-3
 {
@@ -259,7 +264,7 @@ main hr
     display: flex;
     height: 10%;
     width: 100%;
-    background-color: rgb(47, 46, 46);
+    background-color: darkviolet;
     padding-top: 25px;
     padding-bottom: 25px;
     margin-block: 5px;
@@ -304,7 +309,7 @@ main hr
 footer
 {
     padding-top: 20px;
-    background-color: black;
+    background-color: rgb(26, 41, 70);
     padding-bottom: 10%;
 }
 .footer main
