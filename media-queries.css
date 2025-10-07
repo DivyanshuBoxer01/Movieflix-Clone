@@ -1,0 +1,120 @@
+@media screen and (max-width: 767px)
+{
+    h1
+    {
+        font-size: 2.5rem;
+    }
+    h2 
+    {
+        font-size: 1rem;
+    }
+    p 
+    {
+        font-size: 1rem;
+    }
+    .logo h1 
+    {
+        font-size: 2rem;
+        padding-top: 15px;
+    }
+    .main-hover
+    {
+        font-size: 20px;
+    }
+    .box-section
+    {
+        width: 48%;
+        height: 200px;
+    }
+    .qustion-section h3
+    {
+        font-size: 1.4rem;
+    }
+    .qustion-icon
+    {
+        font-size: 25px;
+    }
+    .qus
+    {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 479px)
+{
+    h2 
+    {
+        font-size: 1rem;
+        font-weight: 300;
+        font-family: sans-serif;
+    }
+    .nav-butt
+    {
+        height: 30px;
+        width: 70px;
+        font-size: 15px;
+    }
+    #special-case
+    {
+        font-size: 12px;
+        width: 90px;
+        gap: 2px;
+    }
+    .logo h1
+    {
+        font-size: 1.8rem;
+        padding-top: 15px;
+    }
+    .main-butt
+    {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .input-butt
+    {
+        width: 90%;
+        height: 50px;
+    }
+    .main-hover
+    {
+        height: 45px;
+        width: 40%;
+        font-size: 20px;
+        border-radius: 6px;
+    }
+    .main-one img 
+    {
+        height: 150px;
+    }
+    .box-section
+    {
+        gap: 10px;
+        width: 98%;
+        height: 150px;
+    }
+    .icon-img
+    {
+        top:3%;
+        font-size: 2.4rem;
+    }
+    .last-hover
+    {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .last-sectionI
+    {
+        width: 90%;
+        height: 50px;
+    }
+    .footer-main
+    {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .qus
+    {
+        font-size: 15px;
+    }
+}
