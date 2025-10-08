@@ -42,27 +42,39 @@
 
 @media screen and (max-width: 479px)
 {
+    h1 
+    {
+        font-size: 1.8rem;
+    }
     h2 
     {
-        font-size: 1rem;
-        font-weight: 300;
+        font-size: 0.8rem;
         font-family: sans-serif;
+    }
+    h3 
+    {
+        font-size: 1.3rem;
+    }
+    p 
+    {
+        font-size: 0.8rem;
     }
     .nav-butt
     {
-        height: 30px;
-        width: 70px;
-        font-size: 15px;
+        height: 25px;
+        width: 60px;
+        font-size: 11px;
+        font-weight: 600;
     }
     #special-case
     {
-        font-size: 12px;
-        width: 90px;
-        gap: 2px;
+        font-size: 10px;
+        width: 80px;
+        gap: 1px;
     }
     .logo h1
     {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
         padding-top: 15px;
     }
     .main-butt
@@ -73,19 +85,24 @@
     }
     .input-butt
     {
-        width: 90%;
-        height: 50px;
+        width: 95%;
+        height: 40px;
     }
     .main-hover
     {
         height: 45px;
         width: 40%;
-        font-size: 20px;
-        border-radius: 6px;
+        font-size: 18px;
+        border-radius: 4px;
+        font-weight: 600;
     }
     .main-one img 
     {
-        height: 150px;
+        height: 120px;
+    }
+    .atom 
+    {
+        font-size: 50px;
     }
     .box-section
     {
@@ -93,28 +110,44 @@
         width: 98%;
         height: 150px;
     }
+    .box-section p 
+    {
+        font-size: 0.9rem;
+    }
     .icon-img
     {
         top:3%;
-        font-size: 2.4rem;
+        font-size: 2.2rem;
+    }
+    .qustion-section h3
+    {
+        font-size: 1.1rem;
+    }
+    .qustion-icon
+    {
+        font-size: 25px;
     }
     .last-hover
     {
         flex-direction: column;
-        gap: 10px;
+        gap: 15px;
     }
     .last-sectionI
     {
-        width: 90%;
-        height: 50px;
+        width: 95%;
+        height: 40px;
     }
     .footer-main
     {
         flex-direction: column;
         flex-wrap: wrap;
     }
+    .footer-1 p 
+    {
+        color: lightgray;
+    }
     .qus
     {
-        font-size: 15px;
+        font-size: 13px;
     }
 }
