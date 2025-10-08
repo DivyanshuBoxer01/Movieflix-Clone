@@ -196,7 +196,7 @@ main hr
 .main-one
 {
     padding-top: 20px;
-    background-color: rgb(4, 4, 38);
+    background-color: black;
 }
 .watch-section
 {
@@ -234,8 +234,7 @@ main hr
    padding-top: 15px;
    height: 300px;
    width:23%; 
-   background: rgba(29, 4, 82, 0.91);
-   background: linear-gradient(rgba(20, 25, 66, 0.6),rgb(20,25,66,0.8));
+   background-color: rgba(31, 4, 90, 0.729);
    border-radius: 15px;
    border: 3px;
    text-align: start;
