@@ -44,12 +44,13 @@
 {
     h1 
     {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
     h2 
     {
         font-size: 0.8rem;
         font-family: sans-serif;
+        font-weight: 600;
     }
     h3 
     {
@@ -58,6 +59,7 @@
     p 
     {
         font-size: 0.8rem;
+        font-weight: 600;
     }
     .nav-butt
     {
@@ -74,8 +76,8 @@
     }
     .logo h1
     {
-        font-size: 1.5rem;
-        padding-top: 15px;
+        font-size: 1.8rem;
+        padding-top: 10px;
     }
     .main-butt
     {
@@ -113,6 +115,7 @@
     .box-section p 
     {
         font-size: 0.9rem;
+        font-weight: 500;
     }
     .icon-img
     {
