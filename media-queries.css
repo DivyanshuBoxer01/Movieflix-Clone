@@ -74,10 +74,15 @@
         width: 80px;
         gap: 1px;
     }
+    .all-tag
+    {
+        padding-top: 18%;
+        gap: 15px;
+    }
     .logo h1
     {
-        font-size: 1.8rem;
-        padding-top: 10px;
+        font-size: 1.6rem;
+        padding-top: 12px;
     }
     .main-butt
     {
@@ -89,6 +94,7 @@
     {
         width: 95%;
         height: 40px;
+        font-size: 15px;
     }
     .main-hover
     {
@@ -139,6 +145,7 @@
     {
         width: 95%;
         height: 40px;
+        font-size: 15px;
     }
     .footer-main
     {
